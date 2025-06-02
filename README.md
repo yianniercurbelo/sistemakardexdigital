@@ -24,4 +24,4 @@ Este sitio tiene fines **educativos y académicos**. No utiliza datos reales ni 
 
 ## 📌 Créditos
 Proyecto elaborado por **Yiannier Curbelo Polier**, IACC 2025  
-Contacto académico: yianniercurbelo[at]ejemplo.com
+Contacto académico: yianniercurbelo.ejemplo.com
